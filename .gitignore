@@ -1,0 +1,7 @@
+logs/*
+!logs/.gitkeep
+config/reviewer.env
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
